@@ -57,5 +57,5 @@ list.insertLast(5);
 
 
 list.printAll();
-let secoundNode = list.getNodeAt(2); // 인덱스 1의 노드 가져오기
+let secoundNode = list.getNodeAt(2); 
 console.log(secoundNode.data); 
